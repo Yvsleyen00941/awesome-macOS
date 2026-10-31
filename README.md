@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Rime](https://yorben.me) - Distraction-free macOS PDF reader where everything outside the active page freezes into frosted ice. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime) ![Freeware][Freeware Icon]
 
 
 ### Editors
