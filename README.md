@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Rime](https://yorben.me/#rime) - Minimal distraction-free macOS PDF reader where the screen freezes into frosted ice for focus. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime) ![Freeware][Freeware Icon]
 
 
 ### Editors
@@ -210,6 +211,7 @@
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
+- [Cockpit](https://yorben.me/#cockpit) - Unified daily productivity dashboard and tactile HUD for macOS and iOS. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit) ![Freeware][Freeware Icon]
 - [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
