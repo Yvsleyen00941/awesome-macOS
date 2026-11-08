@@ -143,6 +143,8 @@
 
 ### Editors
 
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime) ![Freeware][Freeware Icon]
+
 - [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
 - [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Port of Emacs to work as an macOS app. [![Open-Source Software][OSS Icon]](https://emacsformacosx.com/download/emacs-sources/) ![Freeware][Freeware Icon]
 - [Itsypad](https://itsypad.app) - Lightweight scratchpad with syntax highlighting for 185+ languages and clipboard history manager. [![Open-Source Software][OSS Icon]](https://github.com/nickustinov/itsypad-macos) ![Freeware][Freeware Icon]
@@ -266,6 +268,9 @@
 
 
 ### Utilities
+
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native menu bar productivity HUD with calendar, timer, and notes. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit) ![Freeware][Freeware Icon]
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native stock ticker living in the unused corner space beside the Dock. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Tape) ![Freeware][Freeware Icon]
 
 - [1Password](https://1password.com) - Password Manager and Secure Wallet.
 - [AnyBar](https://github.com/tonsky/AnyBar) - A menubar status indicator. [![Open-Source Software][OSS Icon]](https://github.com/tonsky/AnyBar) ![Freeware][Freeware Icon]
