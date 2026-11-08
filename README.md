@@ -139,6 +139,7 @@
 ### E-Book Utilities
 
 - [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for macOS.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Minimalist reading engine for PDF, EPUB, and Markdown with typography-first continuous layout. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime) ![Freeware][Freeware Icon]
 
 
 ### Editors
@@ -212,6 +213,7 @@
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [Clipbara](https://github.com/mobrava/Clipbara) - Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying. [![Open-Source Software][OSS Icon]](https://github.com/mobrava/Clipbara) ![Freeware][Freeware Icon]
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified modular heads-up display consolidating Calendar, Music, Notion, and Mail into a single productivity hub. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
@@ -345,6 +347,7 @@
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - Manage your SSH tunnels, tightly integrated with macOS Keychain, secure and intuitive.
 - [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox)
 - [TeamViewer](https://www.teamviewer.com/en/) - Remotely control another computer.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker in the empty corner beside the Dock: one listing at a time, in its logo's colour. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Tape) ![Freeware][Freeware Icon]
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
 - [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
