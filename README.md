@@ -43,6 +43,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
 - [CotEditor](https://coteditor.com/) - Lightweight Plain-Text Editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor)
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free reading engine for PDF, EPUB, and Markdown with frosted-ice focus backdrop. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
 - [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://zed.dev/)
 
@@ -64,6 +65,8 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind. [![Open-Source Software][OSS Icon]](https://github.com/davunt/app-eraser)
 - [Battery charge limiter](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M32, M3) Macs [![Open-Source Software][OSS Icon]](https://github.com/actuallymentor/battery)
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity heads-up display and menu bar companion for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit)
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker in the empty corner beside the Dock. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Tape)
 - [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
 - [Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS [![Open-Source Software][OSS Icon]](https://github.com/pakerwreah/Calendr)
 - [ChatGPT on your desktop](https://openai.com/chatgpt/desktop/) - OpenAI's official ChatGPT desktop app. [![Freeware][Freeware Icon]](https://openai.com/chatgpt/desktop/)
