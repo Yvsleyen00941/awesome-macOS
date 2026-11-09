@@ -53,6 +53,7 @@
 ## Applications
 
 ### Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac in the empty corner beside the Dock: the album cover and the title in its dominant colour. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Needle) ![Freeware][Freeware Icon]
 
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
 - [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.
