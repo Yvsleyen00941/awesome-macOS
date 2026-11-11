@@ -60,6 +60,7 @@
 - [Fader](https://fader.pantafive.dev) - Menu bar volume mixer with per-app volume, one-click audio output switching, and Bluetooth headphone control. [![Open-Source Software][OSS Icon]](https://github.com/pantafive/fader) ![Freeware][Freeware Icon]
 - [krisp](https://krisp.ai/) - AI-powered app that removes background noise and echo from meetings leaving only human voice.
 - [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and four AI models running entirely on Apple Silicon via MLX.
+- [Needle](https://yorben.me/#needle) - Dedicated Now Playing companion that sits beside the macOS Dock, displaying live artwork and track info from Apple Music and Spotify. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Needle) ![Freeware][Freeware Icon]
 - [Plug](https://plugformac.com) - Discover and listen to music from Hype Machine. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/Plug) ![Freeware][Freeware Icon]
 - [Recordia](https://sindresorhus.com/recordia) - Record audio directly from the menu bar or with a global keyboard shortcut.
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
@@ -280,6 +281,7 @@
 - [Boring Notch](https://github.com/TheBoredTeam/boring.notch) - Turns your MacBook notch into a dynamic hub with media controls, calendar integration, and more. [![Open-Source Software][OSS Icon]](https://github.com/TheBoredTeam/boring.notch) ![Freeware][Freeware Icon]
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html) - No-nonsense burning of Data/Audio/Video CDs and DVDs, including copying. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/) ![Freeware][Freeware Icon]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
+- [Cockpit](https://yorben.me/#cockpit) - Native macOS system diagnostics companion tracking CPU, memory, and hardware telemetry beside the Dock. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit) ![Freeware][Freeware Icon]
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner) - Automatically removes text formatting from the clipboard. [![Open-Source Software][OSS Icon]](https://github.com/Zuehlke/Clipboard_Cleaner) ![Freeware][Freeware Icon]
 - [CommandQ](https://clickontyler.com/commandq/) - Never accidentally quit an app again.
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
@@ -346,6 +348,7 @@
 - [Strongbox](https://strongboxsafe.com/) - Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe. [![Open-Source Software][OSS Icon]](https://github.com/strongbox-password-safe/Strongbox)
 - [TeamViewer](https://www.teamviewer.com/en/) - Remotely control another computer.
 - [TextBar](http://www.richsomerfield.com/apps/) - TextBar is a tiny but powerful app that lets you add any text to your MenuBar.
+- [Tape](https://yorben.me/#tape) - Lightweight financial ticker living in the empty corner beside the macOS Dock with 6 native display engines. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Tape) ![Freeware][Freeware Icon]
 - [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) - Lets you use your Mac's keyboard as a bluetooth keyboard to type on another devices.
 - [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
 - [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele) - Unicode Keyboard Layout Editor. ![Freeware][Freeware Icon]
